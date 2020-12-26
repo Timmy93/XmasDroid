@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.xmasdroid
 
 import org.junit.Test
 

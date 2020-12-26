@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.xmasdroid
 
 import android.os.Bundle
 import android.view.View

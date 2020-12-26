@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.notifications
+package com.example.xmasdroid.ui.notifications
 
 import android.util.Log
 import androidx.lifecycle.LiveData
